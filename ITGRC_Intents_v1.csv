@@ -1,0 +1,876 @@
+﻿Question,Answer
+What is your physical location?,"Duel headquarters in US and Switzerland, and offices all over the world."
+"Do you contract for hardware, software and services developed or provided by Kaspersky Labs, a company owned by Kaspersky Labs or any other covered entities pursuant to 52.204-23 of the US FAR regulation?",No
+"Has your company suffered a data loss, personal data incident or security breach within the last 3 years?",No
+Are there any material claims or judgments against your company?,No
+Primary Business Address:,"7700 Gateway Blvd, Newark, CA"
+Logitech employees and security,5000 employees and Logitech has a dedicated Cybersecurity team. 
+Company description,Logitech is a consumer electronics company focused on designing and manufacturing.
+Does Logitech have a designated leader responsible for information security?,Yes
+Name of Information Security leader?,Tana Dubel
+Title,CISO
+Role,Chief Information Security Officer
+Does Logitech employ an information security team?,Yes
+Number of full-time information security personnel?,19
+Does Logitech employ an incident response officer?,Logitech is in the process of hiring an incident response officer
+Name of incident response officer?,N/A
+Title,N/A
+Email,N/A
+Phone,N/A
+"Does Logitech outsource information security functions to a third party? If yes, please provide the name and scope of services provided in the comments section.",No
+"Does Logitech maintain cyber liability insurance in addition to general liability insurance? If Yes, please explain how much in the comments section.",Yes
+Does Logitech have any employees or physical office locations outside of the United States?,Yes
+"Is any PPFA data accessed, transmitted, or stored outside of the United States?",No
+What year was Logitech founded?,1981
+Approximately how many people does Logitech employ?,5000
+"Has Logitech ever experienced a data breach? If so, please explain in the comments section.",No
+Is there a current BAA in place?,No
+"Does Logitech utilize any subcontractors with access PPFA data? If yes, please provide the name of the subcontractor(s) in the comments section.",No
+"Please describe how your organization obtains data from PPFA. Include file type(s) and the medium(s) utilized to transmit the data (e.g., SFTP, Encrypted email).",HTTPS/SSL
+PHI (Protected Health Information),NO
+Intellectual Property,NO
+Financial Property,NO
+PII (Personally Identifiable Information),"Yes, Sync access user name and password"
+PCI (Payment Card Industry),NO
+Employee Information,NO
+"Do you have a designated responsible leader for information security? If so, please explain their title and role in the comments section.","Yes , CISO Tana Dubel"
+"SOC (indicate SOC 1, 2 or 3 and type 1 or 2)",NO
+HITRUST,NO
+PCI Compliance,NO
+ISO 27001,NO
+FedRAMP,NO
+HIPAA (please provide type of assessment performed and certifying organization in the comments section),NO
+NIST (please provide type of assessment performed and certifying organization in the comments section),NO
+"Do you maintain cyber liability insurance in addition to general liability insurance? If Yes, please explain how much in the comments section.",YES
+"Do you use any employees, contractors or subcontractors outside of the United States?",YES
+"Do any of your subcontractors (foreign or domestic) have access to sensitive and/or confidential data? If yes, please name the companies and services they provide to you in the comments section.",NO
+"Do you conduct background checks for all employees, contractors and subcontractors?  If not, for which areas/positions do you require a background check. Please explain in the comments section.",YES
+"Is this a remote hosted or cloud system? If yes, please answer the following questions.",YES
+Do you have any data centers outside of the United States?,YES
+Can data be restricted to be stored only within the United States?,"YES ,Currently data in Sync is only in the United States"
+Will data be stored at an encrypted data center?,YES
+"What certifications does your data center have or external, independent validations of the following:?","YES , https://aws.amazon.com/compliance/programs"
+"What certifications does your data center have or external, independent validations of the following:? SOC (indicate SOC 1, 2, or 3 and type 1 or 2)","YES , https://aws.amazon.com/compliance/programs"
+"What certifications does your data center have or external, independent validations of the following:? PCI Compliance",Yes
+"What certifications does your data center have or external, independent validations of the following:? HITRUST",Yes
+"What certifications does your data center have or external, independent validations of the following:? ISO 27001",Yes
+"What certifications does your data center have or external, independent validations of the following:? FedRAMP",Yes
+"What certifications does your data center have or external, independent validations of the following:? HIPAA (please provide type of assessment performed and certifying organization in the comments section)",Yes
+"What certifications does your data center have or external, independent validations of the following:? NIST (please provide type of assessment performed and certifying organization in the comments section)",Yes
+" Has your organization ever experienced a data breach?  If so, please explain in the comments box.",NO
+Has top management demonstrated leadership and commitment to information security?,Yes
+Has top management communicated a documented information security policy throughout the organisation?,Yes
+Has top management assigned and communicated defined information security roles and responsibilities throughout the organization?,Yes
+"Are legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, understood and managed?",Yes
+Have you documented the internal and external factors affecting your ISMS?,Yes
+Have you documented the needs and expectations (including requirements) of all interested parties relevant to the ISMS?,Yes
+"Have you determined the scope (i.e., the boundaries and applicability) of your ISMS?",Yes
+Have you formally established the ISMS and ensure its continual improvement?,Yes
+Can you provide your information security policy and program documentation?,"No , Company Policies are confidential and for internal use only. We do not share with external parties."
+Do you have a well-defined and documented procedure for identifying information security risks and opportunities for improvement that are relevant to the context of the organization (4.1) and needs and expectations of interested parties (4.2)?,Yes
+"Do you have an official documentation structure or hierarchy, whereby you include documentation that is directly required by ISO 27001, as well as documentation that is deemed necessary for an effective information security program?",Yes
+Do you have well-defined and documented policies and procedures for ensuring proper control and handling of ISMS documentation?,Yes
+"Do you have well-defined and documented operating procedures?
+e.g., addressing the installation of systems, processing and handling of information, support and escalation processes, project management methodologies, etc.",Yes
+Do you have well-defined and documented procedures for controlling the installation of software on operational systems?,Yes
+Do you have a well-defined and documented policy restricting the installation of software on company-issued devices?,Yes
+"Can you provide your visitor security policy and procedures? If yes, attach/if no, please explain.","No, Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally"
+"Provide Policy and procedures for managing accounts, including - creating, modifying, monitoring, and deleting/disabling accounts.","No , Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally"
+Provide policy and procedure for Remote Access and/or information security policy that addresses Remote Access.,No
+Provide Wireless Access Policy and Procedures and/or information security policy that addresses Wireless Access.,"No, Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+"Provide the most recent Baseline Configuration document for the information system (e.g., hardening procedures for Window OS, baseline security settings for sever AND application builds.)","No, Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+Configuration Change Control procedures.,"No, Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+Provide documentation that demonstrates information system Component and Asset Inventory is maintained and kept up to date.,"No , Cloud Based Solution in AWS does not require inventory"
+Please provide copy of Configuration Management procedures.,"No , Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally"
+Provide Acceptable Use policy and/or samples of software licensing documentation.,"Yes, https://sync.logitech.com/terms-of-service"
+"Provide Password policy and procedures, including length and complexity requirements as well as process initial password distribution and changing of factory defaults.","No , ""Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"""
+Provide Penetration Testing Policy and Procedures and an executive summary of the most recent penetration test.,"No , Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+Provide documentation that all identified vulnerabilities are remediated in a timely manner.,No
+"Provide evidence that malware protection solutions are implemented on servers, workstations, and all other end points that process, transmit, or store client data.",No
+"Provide evidence that information integrity tools are used. (e.g., tripwire).","No , Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+Please provide Vendor Management Policy/ Procedures.,"No , Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+Please provide screenshot of Incident Management Software or redacted incident tickets.,No
+Comprehensive Incident Response Plan/ Incident management team alerts.,"No , Logitech’s policies and procedures are confidential and for internal use only, it is not shared externally
+"
+"Provide a copy of any relevant Third-Party Certifications and/or Audit (e.g., SOC 2 Type 2, HITRUST, ISO 27001, HIPAA, PCI).",N/A
+Please provide the most recent invoice from respective background check provider.,N/A
+Please provide a redacted organizational chart of security team and leader.,"No , Logitech has a CISO who manages the security team that covers a broad range of security categories including a SOC, network security, Vulnerability management, it-GRC, incident management,  suppliers and risk management and is directly involved with privacy and product security."
+Do governance and risk management processes address cybersecurity risks?,Yes
+"Are suppliers and third party partners routinely assessed using audits, test results, or other forms of evaluation to confirm they are meeting their contractual obligations?",Yes
+"Are threats, both internal and external, identified and documented?",Yes
+Do you have a well-defined and documented procedure for assessing information security risks and opportunities for improvement?,Yes
+Do you have a well-defined and documented procedure for treating information security risks and opportunities for improvement?,Yes
+"Have you created a ""statement of applicability"" that documents the ISO 27001 Annex A controls that have been deemed applicable to the ISMS as a result of a risk assessment?",No
+"Does your organisation undergo risk assessments at planned intervals or whenever significant changes are planned or occur, and document the results?",Yes
+"Do you have create and carry out documented risk treatment plans following risk assessments, and document the results?",Yes
+Do you have well-defined and documented policies and procedures for addressing supplier access to the organisation's information?,Yes
+Are information security requirements addressed in vendor/supplier contracts?,Yes
+Do vendor/supplier contracts address information security risks associated with the use of subcontractors?,Yes
+Do you have a process for monitoring and reviewing vendor/supplier services?,Yes
+Do you have a process for managing changes made to vendor/supplier services?,Yes
+"Do you outsource, offshore, subcontract, or delegate any of your duties, responsibilities or obligations assigned by Kroger to any third parties?","Yes , We use AWS as our datacenter provider"
+"If yes, explain if the customer has/will be notified of the arrangement, what information is provided to the provider, and what work is being done:","Yes , We use AWS as our datacenter provider"
+"How are your partner’s security procedures assessed, and who has legal responsibility to protect the data?",Vendor security reviews and MSA in place that processor and subprocessers of Logitech data has to comply with
+"Are there formally documented policies and procedures for Risk Assessments? If yes, please attach.","Yes , This documentation is confidential and for internal use only. "
+"Does the organization categorize information and the information system in accordance with applicable Federal Laws, Executive Orders, directives, policies, regulations, standards and guidance?",Yes
+"Does the organization conduct a risk assessment including the likelihood and impact of harm, from the unauthorized access, use, disclosure, disruption, modification or destruction of the information system and the information it processes, stores or transmits?",Yes
+"Does the organization scan for vulnerabilities in the information system and hosted applications and when new vulnerabilities potentially affecting the system/applications are identified and reported? If yes, please provide the date of the most recent vulnerability scan and the tools utilized, in the comments section.",Yes
+Do you have a formal Information Security Program?,Yes
+"Please specify the name of standards, or best practices your Information Security Program is based on:",NIST 800-53
+ Please specify what security related certifications your company have:,"N/A , None "
+"Are Information Security personnel integrated and active members of architecture/project management groups (including but not limited to: network design, desktop infrastructure, server infrastructure and client engagements)?",Yes
+How often do your employees go through security awareness training?,"Yes , Upon hire, and at least once per year."
+Do you require interns/contractors/consultants to go through the security awareness training?,Yes
+"Is there a formally defined security architecture, not network architecture, in place?",Yes
+Please describe the security architecture or provide supporting documents:,N/A This information is confidential and for internal use only
+"Have you allocated the resources necessary for achieving your objectives and to ensure continual improvement of your ISMS? Have you determined and provided the resources necessary for the establishment, implementation, maintenance and continual improvement of the ISMS?",Yes
+"Do you have a well-defined and documented procedure for identifying information security objectives and creating ""S.M.A.R.T."" plans for achieving them.
+ISMS objectives should be ""S.M.A.R.T.""—i.e., Specific, Measurable, Achievable, Relevant, and Time bound.",Yes
+"Have you ensured that in-scope personnel have the necessary levels of information security education, training and experience? Are individuals within ISMS roles competent and is the competence documented appropriately?",Yes
+"Do you ensure organisation-wide awareness of information security policies and procedures, and individual roles and responsibilities with respect to security? ",Yes
+Do you have well-defined and documented policies and procedures for handling both internal and external communications about the ISMS?,Yes
+"Do you have a process by which you plan, implement, control and review ISMS operations, and keep evidence of that process being followed?",Yes
+Do you use metrics for evaluating the performance and effectiveness of your information security program?,Yes
+Do you conduct management reviews of the ISMS at defined intervals?,Yes
+Do you have a set of well-defined and documented information security policies and procedures that have been communicated to all relevant parties?,Yes
+Do you formally review your information security policies and procedures at defined intervals?,Yes
+Do you have written security policies and are they reviewed and updated as needed at least annually?,yes
+Do you have an internal team dedicated to Information Security tasks?,yes
+Do you outsource any security management functionality?,No
+"Are there formally documented procedures for security awareness and training for this information system? If yes, please attach.",Yes
+Is basic security awareness training performed for all personnel as a part of the onboarding process?,Yes
+Is it periodically performed for all users?,Yes
+Is there role-based security training for personnel with assigned security roles and responsibilities for this information system before access is granted and when required by information system changes?,Yes
+Do you document and monitor information system security training activities for individuals?,Yes
+Are there established and readily available rules of behavior that describe the responsibilities and expected behavior of users for this information system?,Yes
+"Do users indicate that they have read, understood, and agree to abide by the rules of behavior before authorizing access to information and the information system? If yes, how is this documented?",Yes
+Are the rules of behavior updated?,Yes
+Does the organization have a comprehensive information security architecture for their information system?,Yes
+Does the organization describe how the information security architecture is integrated into and supports the enterprise architecture?,Yes
+Does the organization describe any information security assumptions and dependencies on external services?,Yes
+"Do you have formally documented policies and procedures for System and Information Integrity? If yes, please attach.",Yes
+"Are information system flaws identified, reported, and corrected? (I.e., are vulnerability scans performed and addressed?)",Yes
+Are software and firmware updates tested for effectiveness and potential side effects before installation?,Yes
+Is flaw remediation incorporated into the organizational configuration management process?,Yes
+"Do you have an anti-virus running with current updated virus definition (DAT) files? If yes, please provide the name of the anti-virus solutiion utilize in the comments section.","Yes , Malwarebytes , Crowdstrike"
+Are the DAT files updated regularly?,Yes
+Is the information system and its components periodically scanned for malicious code?,Yes
+Are the administrators notified and do they respond to malicious code detections?,Yes
+"Is the information system monitored to detect attacks, potential attacks, and unauthorized use? (This can be done through audit activity in real time, monitoring devices, or applications such as Tripwire or SiteScope.)",Yes
+"Does the team  receive or subscribe to external security alerts, listservs, etc. related to the information system? (For instance, does the vendor notify you of security issues with an application?)",Yes
+"Does the team generate and disseminate internal security alerts, advisories, and directives as deemed necessary?",Yes
+"Are integrity verification tools used to detect unauthorized changes to software, firmware, and information?  (E.g., Tripwire)",Yes
+Are spam protection mechanisms in place and updated as needed?,Yes
+"Is information within and output from the system retained for the amount of time as required by data policies and regulations? (This includes paper copies, CDs, DVDs, and flash drives.)",Yes
+Have information security roles and responsibilities throughout the organisation been defined and communicated to all relevant parties?,Yes
+"Do you segregate duties, roles and responsibilities where applicable?",Yes
+"Do you maintain a list of contact details for relevant authorities, and documented procedures on when and how to communicate with them?
+i.e. in the event of security breach",Yes
+"Do you maintain contact/membership with relevant special interest groups, security forums and/or professional associations?
+Enter explanation or description for your answer below.",Yes
+Have you integrated information security into your project management methodologies?,Yes
+"If vendor in turn relies upon downstream vendors to provided security-centric support (e.g., MSSP) services, please identify these vendors and the functions they will be providing as part of the service agreement with the District:",N/A
+"3. Will any vendor subcontractors or non-employees of the vendor have access to District data? If so, please describe the subcontractor’s data security policies, subcontractor employee cybersecurity training, and subcontractor employee background checks.",N/A
+What kind of security testing and security reviews do you have internally? ,Black-box or Grey-box penetration test of applications
+ What other kinds of security testing do you have? ,We do  automated SAST and DAST internally 
+ Have any third-party security assessments been performed against the internal production infrastructure?,Annually
+"Have any third party auditors performed an audit or analysis of security controls, methods, processes or procedures?",Annually
+"Are there formally documented policies and procedures for Personnel Security? If yes, please attach.",Yes
+Does the organization assign risk designations to all positions?,Yes
+Does the organization establish screening criteria for individuals filling those positions?,Yes
+Does the organization review and revise position risk designations at least every three years?,Yes
+Does the organization screen individuals prior to authorizing access to the information system?,Yes
+Does the organization re-screen individuals with access to the information system?,No
+Does the organization have appropriate termination procedures in place to those with access to the information system?,Yes
+Does the organization have appropriate transfer procedures in place to those with access to the information system?,Yes
+Does the organization have access agreements (reviewed annually) for individuals with access to the information system?,Yes
+Does the organization have appropriate third-party access control procedures for external parties granted access to the information system?,Yes
+Does the organization have appropriate personnel sanctions policies and procedures?,Yes
+"Are there formally documented policies and procedures for System and Services Acquisitions? If yes, please attach.",Yes
+Does the organization adequately allocate resources to allow for the information system to run safely and efficiently?,Yes
+Does the organization define a comprehensive life cycle for the information system?,Yes
+"Does the organization include the requirements, descriptions, and criteria, explicitly or by reference, in the acquisition contract for the information system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs",Yes
+"Does the organization apply information system security engineering principles in the specification, design, development, implementation, and modification of the information system.",Yes
+"Does the organization require that providers of external information system services comply with organizational information security requirements in accordance with applicable Federal Laws, Executive Orders, directives, policies, regulations, standards and guidance?",Yes
+"Does the organization require the developer of the information system, system component or information system service to perform configuration, document the changes and implement only organization-approved configuration changes?",Yes
+"Does the organization require the developer of the information system, system component, or information system service to create and implement a security assessment plan, perform tests/evaluations and produce evidence of the execution of the security assessment plan?",Yes
+"Does the organization protect against supply chain threats to the information system, system component, or information system service by employing a Vendor Risk Management fucntion as part of a comprehensive, defense-in-breadth information security strategy?",Yes
+Do you maintain an inventory of all information-related assets?,Yes
+Do all assets have clearly defined owners who are aware of their responsibilities for the lifecycle of those assets?,Yes
+Do you have a documented acceptable use policy that has been communicated throughout the organisation?,Yes
+"Does your formal termination process include the return of any information-related assets that had been issued to workforce personnel?
+There should be a role in charge of implementing any procedure that supports this.",Yes
+"Do do you have a process (or scheme) for classifying information, based on legal requirements, value, criticality and sensitivity?",Yes
+Do you have procedures for labelling information based on classification?,Yes
+Do you have procedures for handling assets based on classification?,No
+Do you have procedures for managing removable media based on classification?,Yes
+Do you have procedures for securely disposal of media?,Yes
+Do you protect media that contains information during transportation?,Yes
+Is all removable media stored only on-site within a recognized data center?,"N/A , This is an AWS Cloud Environment implementation"
+"Are there formally documented policies and procedures for Media Protection? If yes, please attach.","N/A , This is an AWS Cloud Environment implementation"
+"Is access to media associated with the information system (diskettes, hard disk drives, flash drives, CDs, paper, microfilm, etc.) restricted to authorized personnel?","N/A , This is an AWS Cloud Environment implementation"
+"Is any media containing sensitive data marked to indicate distribution limitations, handling caveats, ownership, and any applicable security markings if it is removed from a controlled area?","N/A , This is an AWS Cloud Environment implementation"
+"Is the media stored is a secure location? (E.g., data center, locked office or cabinet.)","N/A , This is an AWS Cloud Environment implementation"
+Does media related to this information system get transported outside of the controlled environment?,"N/A , This is an AWS Cloud Environment implementation"
+"Do you maintain accountability during the transport of the media outside of the controlled area, documenting transport activities and restricting transport activities to associated personnel?","N/A , This is an AWS Cloud Environment implementation"
+"Is the media sanitized prior to destruction, disposal, re-use, or release? (I.e., degaussed.)",Yes
+"Are there any restrictions on the types of storage media that can connect to the information system? (E.g., restricting or prohibiting the use of flash drives or external hard disk drives.)","N/A , This is an AWS Cloud Environment implementation"
+"Are there technical or nontechnical safeguards (e.g., policies, procedures, rules of behavior) in place to enforce the media restriction(s)?",Yes
+"Do you conduct appropriate background screenings on all job candidates, while ensuring compliance with all relevant legal and ethical requirements?",Yes
+Do your written terms and conditions of employment define the information security responsibilities of both workforce personnel and the organisation?,Yes
+Are all workforce personnel required by management to follow all applicable information security policies and procedures?,Yes
+"Do you ensure that all workforce personnel receive an appropriate level of information security awareness, education and training?",Yes
+Do you have a formal disciplinary process that has been communicated throughout the organisation?,Yes
+Do you have a process for ensuring that information security responsibilities and duties that remain valid after termination or change of employment are communicated to all workforce personnel and enforced?,Yes
+ Are all full-time employees subject to background checks?,Yes
+Are contractors and temporary/outsourced workers subject to the same background checks?,yes
+Do you have defined security perimeters around areas with sensitive or critical information?,Yes
+Do you ensure that only authorised personnel are allowed access to secure areas?,Yes
+"Do you ensure the physical security of offices, rooms and facilities?",Yes
+"Have you put physical protection measures in place to limit the impact of natural disasters, malicious attack or accidents?","Yes, Data in scope is stored in AWS data centres"
+Do you have well-defined and documented procedures for working in secure areas?,Yes
+Do you control access to delivery and loading areas?,Yes
+"If there are are designated delivery/loading areas, is access from those areas isolated from information processing systems/facilities?",Yes
+"Do you consider environmental threats and hazards, as well as opportunities for unauthorized access, when choosing locations and physical controls for protecting equipment?",Yes
+"Do you ensure the protection of equipment from power failures or other disruptions?
+e.g., through use of a universal power supply",Yes
+"Do you ensure the protection of cables from interception, interference or damage?",Yes
+Do you have a process for maintaining equipment?,Yes
+Are controls in place to ensure that assets are not taken off-site without prior authorisation?,Yes
+Do you ensure the security of assets that have been taken off-site?,Yes
+"Do you ensure that secure disposal or re-use of equipment containing any sensitive, confidential or copyrighted information?",Yes
+Are users made aware of how to properly protect unattended equipment?,Yes
+"Do you have a well-defined and documented clear desk and clear screen policy?
+This should be distributed and monitored.",Yes
+"Do you maintain your own data center? If yes, where is your data center located? List all that apply.",No
+"If no, who provides you data center services?",AWS
+Is your data center a cloud service?,Yes
+What is the location and region of your data center(s)? List all that apply.,AWS
+"Where will the application or customer data be hosted? (i.e. cloud provider, company data center, 3rd party data center, etc.)",Sync service relies on AWS cloud service provider
+"If cloud provider, are there security measures in place to prevent logical access to systems / containers by employees of the cloud providers?",yes
+"Are all locations secured by security guards 24 hours a day, 7 days a week?",Yes
+"Are vendors, visitors, family members or maintenance personnel allowed access to these locations?","No , For AWS data centres where sync will be physically stored"
+"Are the servers and other equipment located within a certifed data center? If yes, please provide the name of the data center and the certifications maintained, in the comments section.","Yes , AWS"
+Is there a documented and current list of personnel with authorized access to the facility where the information system resides?,N/A AWS datacentre
+Is the access list detailing the individuals with authorized facility access periodically reviewed?,N/A AWS datacentre
+Are individuals no longer requiring facility access removed from the list?,N/A AWS datacentre
+"Are there controls in place to verify individual access before granting access to the facility where the information system resides? (E.g., card readers.)",N/A AWS datacentre
+Do you maintain physical access audit logs for the necessary entry/exit points?,N/A AWS datacentre
+"Are there any components of the information system available in a public area? (For example, a client on a public or publicly visible workstation.) If yes, detail in the comment how this access is controlled. ",No
+Do you escort visitors and monitor visitor activity?,N/A AWS datacentre
+"Are keys, combinations, and other physical access devices secured?",N/A AWS datacentre
+Are physical access devices inventoried and periodically reviewed?,N/A AWS datacentre
+"Are combinations and keys changed periodically or when keys are lost, combinations are compromised, or individuals are transferred or terminated?",N/A
+"Are phone lines, internet lines, energy lines, and other wires protected from environmental damage or access from unauthorized individuals? (E.g., locking wiring closets, disconnecting or locking spare jacks, protecting cabling by conduit or cable trays.)",Yes
+"Are monitors, printers, and audio devices physically secured so that unauthorized individuals may not obtain information from the output?",Yes
+Is there monitoring  of physical access to the facility where the information system resides to detect and respond to physical security incidents?,Yes
+Are physical access logs reviewed?,N/A
+Are the results of the review and investigation available for the incident response team?,N/A
+Do you maintain visitor access records to the facility where the information system resides?,N/A
+Are the visitor access records reviewed on a regular basis?,N/A
+Are there emergency power shutoffs in easily accessible areas that are protected from unauthorized activation?,N/A
+"Is there short-term, uninterruptible power supply (UPS) to facilitate the transition of the information system to the long-term alternate power source in the event of a primary power source loss?",Yes
+Do you maintain automatic emergency lighting that activates in the event of a power outage and that covers emergency exits and evacuation routes within the facility?  ,N/A
+Do you use and maintain fire suppression and detection devices/systems for the information system that are supported by an independent energy source?,N/A
+Do you regularly monitor and maintain temperature and humidity in an acceptable level within the facility? ,N/A
+"Is the information system protected from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel?",N/A
+"Do you authorize, monitor, and control information system components entering and exiting the facility and maintain records of those items?",N/A
+"In the event of an emergency, has an alternate work site with effective physical security controls been designated?",Yes
+Do you position information system components to minimize potential damage from physical and environmental hazards or to minimize unauthorized access?,Yes
+Do you have proper change management controls in place?,Yes
+Do you have a well-defined and documented backup policy?,Yes
+"Do you maintain, and regularly review, event logs?",Yes
+Are controls in place to protect event logs?,Yes
+Do you maintain logs of system administrator and operator activities?,Yes
+Do you ensure clock synchronisation for relevant information processing systems?,Yes
+Do you retain change transaction logs for the application for a certain period of time? How long,"Yes , Transaction logs and database information is backed up per Logitech IT policies. Logitech will provide detailed backup information under NDA if selected as a partner."
+"Can you share your change policy with Eaton? If no, please explain.","Yes , Logitech follows ISO and ITIL-aligned change management processes. Logitech will provide detailed change management information under NDA if selected as a partner."
+Is there a standard paper/hard copy destruction process for your company?,Yes
+ Please describe the process or provide the supporting documents of the hard drive decommission process:,"Logitech has a data retention and destruction process. We do not share our internal processes with external parties, they are confidential."
+Are backups performed?,Yes
+ Are backups encrypted?,"Yes , AES-256 algorithm (256 bit key)"
+ Do you regularly test your backups?,Yes
+"Do you enforce separation of duties with respect to system development, database administration, and system administration across development, test and production environments?","Yes , controls in place, change management "
+Do you require two-factor authentication for systems that contain sensitive information?,"Yes , users will need to have approved access and given access to the application by groups through identity management tool"
+Are there any conditions where developers and contractors (including vendor hardware service personnel) permitted to have access to production systems for troubleshooting and maintenance?,"Sync ,  The Sync service is only run from a public cloud. Access to the customer database is granted by the management team to a small group of Sync developers who are responsible for supporting the service operations. Access rights are revised or revoked whenever there is a change of role. Limited customer data is shared with the product management team for marketing research, product planning, and customer follow up"
+Is management's approval required for the removal of the information system or its components for off-site maintenance and repairs?,N/A
+"Do you sanitize equipment to remove all information from associated media (e.g., hard drives) prior to removal from the facilities for off-site maintenance or repairs?",N/A
+"Do you check all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions? (E.g., verify that audit logs are still functioning properly, user level of access is still appropriate.)",yes
+"Is any nonlocal maintenance and diagnostic activity performed on the information system  (such as across the network, either internal or external, using terminal services/RDP)?",Yes
+Are all nonlocal maintenance and diagnostic activities approved and monitored?,Yes
+Are strong authenticators/passwords used in the establishment of nonlocal maintenance and diagnostic sessions?,Yes
+Do you maintain records for nonlocal maintenance and diagnostic activities?,Yes
+Are the sessions and network connections terminated after the nonlocal maintenance has been completed?,Yes
+"Are there documented procedures to outline who/when and how the system/application is configured? If yes, please attach",Yes
+"Do you have a current configuration baseline documented for the information system? (The baseline configuration is a documented, up-to-date specification to which the information system is built.)",Yes
+Are types of changes to the information system that are configuration-controlled defined?,Yes
+"Does the organization review proposed configuration-controlled changes to the information system, using defined security impact analyses?",Yes
+Are all configuration changes adequately documented?,Yes
+Are all approved configuration controls implemented timely?,Yes
+Does the organization retain records of configuration controlled changes?,Yes
+Are there auditing and monitoring activities implemented to assess the configuration-controlled changes?,Yes
+Do you analyze changes to the information system to determine potential security impacts prior to change implementation?,Yes
+"Does the organization define, documents, approves, and enforces physical and logical access restrictions associated with changes to the information system?",Yes
+Have all the configuration settings been documented that reflect the most restrictive mode consistent with operational requirements?,Yes
+"Is there any automated or manual monitoring of configuration changes? (e.g. Tripwire, manual checklists)",Yes
+Do you document and approve deviations from the established configuration settings?,Yes
+"Do you restrict or prohibit the use of any functions, ports, protocols and/or services that are not essential to the function of the information system?",Yes
+Do you have an accurate and current documented inventory of the components within the information system?,"N/A , System is a virtual deployment in the AWS cloud, thus no hardware is used."
+"If yes, do you review and update the information system component inventory regularly?",N/A
+"Does the organization develop, document, and implement a configuration management plan for the information system that addresses roles, responsibilities and configuration management processes and procedures?",Yes
+Does the organization establish a process for identifying configuration items throughout the system development life cycle?,Yes
+Does the organization define configuration items for the information system?,Yes
+Does the organization protect the configuration management plan for unauthorized disclosures and modifications?,Yes
+Is software usage in accordance with contract agreements and copyright laws?,Yes
+Is user installation of software restricted and monitored?,Yes
+"Are patches applied to the information system in a timely manner? If so, how quickly are patches applied?",Yes
+Are there standards or policies which define the timing of patching the information system?,Yes
+"Do you use Development, Test, QA, and Production environments during the patch management process? If so, describe the manner in which these environment are utilized?",Yes
+"Do you categorize patches based on severity? If yes, please provide the categories, their definitions, and the associated time frames for deploying patches to production environments.",Yes
+"Do you implement patches categorized as ""critical"" within 72 hours of patch release?",Yes
+Do you have a well-defined and documented access control policy?,Yes
+Do you ensure that users only have access to network and network services that they have been specifically authorised to use?,Yes
+Do you have a well-defined process for user registration and de-registration?,Yes
+Do you have a well-defined process for provisioning (assigning or revoking) user access for all systems and services?,Yes
+Do you restrict and control privileged access rights?,Yes
+Do you have a well-defined process for allocating secret authentication information?,Yes
+Do you regularly review user access rights with asset owners?,Yes
+Do you ensure the removal of access rights of users upon termination?,Yes
+Do you require users to follow policies and procedures on the appropriate use of secret authentication information?,Yes
+Do you restrict access in accordance with your access control policy?,Yes
+"Do you have a secure log-on procedure for controlling access to systems and applications, in accordance with the access control policy?",Yes
+Do you use a password management system?,Yes
+Do you restrict and control the use of utility programs that have the ability to override system and application controls?,Yes
+Do you restrict access to program source code?,Yes
+"Are identities and credentials issued, managed, verified, revoked and audited for authorized devices and users and processes?",Yes
+Is remote access managed?,Yes
+Are identities proofed and bound to credentials and asserted in iterations?,Yes
+Do privileged users understand roles and responsibilities?,Yes
+Do you have session timeouts set up for all desktops that access Eaton data?,Yes
+Is electronic access to systems containing customer data removed within 24 hours for terminated constituents?,"No , Logitech's Corporate IT: Yes, termination is immediate as soon as the request has been received. That would be the network access / AD account and with OKTA it will downstream to other systems. The 72 hours is for any old systems that may need to have a manual termination, the 72 hours is to cover if the request comes in on a Friday and can not be done until Monday. "
+Is multifactor authentication deployed?,Yes
+Where is MFA deployed?,"Privileged Internal, All applications where available"
+"Do you support SSO technology? If yes, please explain.","Yes , Logitech uses a federated identity management solution"
+How do you authenticate customer driven change requests to ensure only authorized customer personnel request and authorize changes?,"In Logitech Sync, we use role-based access control that is managed by the customer's administrator"
+" Identify how access control rights are governed with respect to vendor employee access to District data, including management-driven account provisioning/termination and role-based assignments:",Identity management- Okta
+10. Identify branded cloud-based solutions in use by the vendor to provide Single Sign-on (SSO) and the extent to which the vendor can integrate with Microsoft ADFS for Identity Provider services.,"Okta, Azure Active Directory."
+ Is role based access used to control access to systems and applications?,"Yes , Roles operate on a least privilege basis"
+"Do individuals with high level of access (i.e. system admins, DBAs, etc.) use two-factor to authenticate to systems that they manage?","Yes , Identity management solution, vpn, and password vault"
+"Who has access to any portion of customer's data? Please outline the following: role, responsibilities, number of people in this position, and why they need access (specific names are not required).","Sync , ""Logitech employees can access customer data. Logitech limits the access controls to selected technical members administering and developing Sync service. Access to the customer database is granted by the management team to a small group of Sync developers who are responsible for supporting the service operations. Access rights are revised or revoked whenever there is a change of role. Limited customer data is shared with the product management team for marketing research, product planning, and customer follow up.
+
+(Source: Sync SAQ)"""
+"Is there a process implemented to ensure all violations, unauthorized access and anomalous activities are logged, monitored, reviewed and addressed in a timely manner?","Yes  , This is a question around disciplinary actions for what do we do... what is agreed upon with legal or the business? Where do we terminate ppl? that is a question for HR and Legal and specific to the product? Where corporate we have the Acceptable user policy that outlines at a hight level users must comply. "
+ please describe the incident management process,"Logitech has an incident management process to handle security incidents. Once a security incident is identified, impacted customers will be notified of the incident details."
+"If yes, what is the timeframe for addressing unauthorized access violation (e.g. < 48 hours)","Depending on the nature of the breach, actions taken by Logitech will vary."
+Are there procedures to periodically audit who has access to customer  data / information?,No. Access to the customer database is granted by the management team to a small group of Sync developers who are responsible for supporting the service operations. Access rights are revised or revoked whenever there is a change of role.
+Do you remove access from terminated employees or contractors within 24 hours of termination?,Yes
+"For involuntary terminations, can you remove access immediately?",Yes
+"Is any remote access allowed into the network that will process, store or view customer data / information?","Yes , Yes, Sync service is a cloud-based service"
+"Are there formally documented policies and procedures for access control? If yes, please attach.","Yes , These policies and procedures are confidential and for internal use only. Logitech does not disclose externally."
+"Do you have a process for managing accounts, including - creating, modifying, monitoring, and deleting/disabling accounts?",Yes
+"Are accounts reviewed on a periodic basis?  If yes, include timeframe in comment.",Yes
+"Have all guest, shared (other than Admin/Root), or group accounts been removed or disabled?",Yes
+"Are account managers notified when accounts are no longer required, when users are terminated or transferred, or when individual access requirements change?",Yes
+Is approval from an authorized signer required before provisioning accounts?,Yes
+"Does the information system verify the rights of a user to access the information system? (Access Control Lists, Group/Role membership?) If yes, detail how the access is enforced in the comment.","Yes , Logitech uses a federated identity management system for all uses"
+Does the information system support role-based account management and access controls (RBAC)?,Yes
+"If RBAC is supported, can a customer administrator create/customize unique roles and permissions.",No
+"Is the flow of sensitive information secured between interconnected systems? (Firewall rule sets - iptables, proxies, encrypted tunnels.)","Yes , All comm is iniyiated by the endpoint and is secured by TLS/HTTPS"
+"Is separation of duties implemented? (E.g., Mission functions and support functions divided among personnel, different administrative accounts for different roles.)",Yes
+"Is least privilege employed? (I.e., must administrators switch to the root or a separate administrator account to perform administrative functions/make system changes?)",Yes
+"Is an account automatically locked out after a set amount of attempts? If yes, please provide the number of failed attempts that trigger an account to be locked out, in the comments section.",Yes
+Is there a system use notification displayed before granting access that provides privacy and security notices?,No
+Does the application/system terminate the session after predefined circumstances?,"Yes , All data is a pull from the endpoint"
+Is protected health information identified as such with access only provided to authorized personnel?,N/A
+Is remote access allowed from outside the network only through the use of the VPN client?,"No , Cloud Based Solution"
+Are there established and documented usage restrictions for those connections?,N/A
+Is remote access to the information system authorized prior to allowing such connections?,Yes
+"Does the information system and/or associated device allow wireless access and only connect to secure networks? (Network access, Bluetooth, infrared, etc.)",N/A
+"Can users or administrators connect using mobile devices (i.e. iPad, Smart Phone, PDAs)?","Yes , This is a cloud based service that uses HTTPS"
+Are there established and documented usage restrictions for those connections?,No
+Is remote access to the information system authorized prior to allowing such connections?,N/A
+"Does the information system have any trust relationships with external environments?  (E.g., interconnection agreements with third parties.)","Yes , AWS"
+"Are there established terms and conditions to access, process, store, or transmit organizational information using their systems?",Yes
+Does the organization facilitate information sharing by enabling authorized users to determine whether access authorizations assigned to the sharing partner match the access restriction on the information for the user?,No
+Is there any publicly accessible information?,N/A
+Are designated individuals trained to post and review information on the publicly accessible site?,N/A
+"Does the application/system use managed LDAP services for identification and authentication? If no, detail in the comment column what is used.",YES
+"Are there formally documented policies and procedures for Identification and Authentication? If yes, please attach.",Yes
+"Does the information system use multifactor authentication for privileged or non-privileged access? (Uses at least two of: what you have, what you know, what you are.  E.g., tokens, passwords, biometrics.)",Yes
+"Does the information system uniquely identify and authenticate devices before establishing a connection? (E.g., MAC, TCP/IP, IEEE 802.1x)",Yes
+Are the passwords encrypted within the information system when stored or transmitted?,Yes
+Are factory default passwords changed once implemented into production? (Admin/root passwords.),Yes
+Is the identity of the individual or device verified as part of the initial password distribution process?,Yes
+Are there administrative procedures for initial password distribution and for revoking access?,Yes
+Does the information system obscure the authenticator/password during the authentication process?,Yes
+"Does the information system uniquely identify and authenticate non-organizational users (such as vendors)? (I.e., do the vendors have unique accounts instead of a shared account to gain access?)",Yes
+Do you have proper change management controls in place?,Yes
+"Do you ensure the separation of development, testing and operational environments?",Yes
+"Is data-at-rest protected? If yes, how?","Yes , Product dependant"
+"Is data-in-transit protected? If yes, how?","Yes , Product dependant"
+Are information security related requirements considered when onboarding new information systems or enhancements to existing information systems?,Yes
+Are controls in place for securing application services on public networks?,Yes
+Are controls in place for securing application services transactions?,Yes
+Is there a procedure mandating the implementation and assessment of security controls for any software or system development?,Yes
+Is there a formal change control procedure?,Yes
+"Is there a procedure to ensure a review is carried out when operating platforms are changed?
+This review should assess risk and be technical in nature.",Yes
+Is there a procedure in place which requires when and how software packages can be changed or modified?,Yes
+Is there a procedure on detailing required security for systems?,Yes
+Is there a secure development environment utilized by all projects during the system development life cycle?,Yes
+"Is externally developed code supervised and subject to a security review?
+The review needs to take place before the code moves into a production environment.",Yes
+Is security tested as part of the development process for any system or applications?,Yes
+"Is there a procedure to accept new systems, applications, or upgrades, into the production environment?",Yes
+Is there a procedure for utilizing test data and making sure the data is suitable for the test?,Yes
+Do you utilize production data in test/QV environments?,No
+Do you perform security code reviews prior to implementation of new code into production?,Yes
+Do you promote code to production if vulnerabilities are noted during code reviews?,No
+Does the application change management/change control process include version control for all software?,Yes
+Do you operate a shared or dedicated environment for this service?,Yes
+"1. To the extent that the vendor employs in-house original code developers in the creation/maintenance of applications that transmit/house/process District data, identify who is responsible for security architect functions involving the requirements, design, coding, and testing of new/updated code:",Product Security Architect part of CTO team
+"2. Identify the extent to which all original code developers within the vendor’s employ have received either formal or informal instruction regarding secure coding practices, such as those promulgated by OWASP or other standards-based entities:       ","Logitech conducts security testing by third-party
+security consultants to identify vulnerabilities. Such
+Static Application Security Testing (SAST), Dynamic
+Application Security Testing (DAST), and cloud service
+configuration assessment align with but are not limited
+to, common security weaknesses as outlined in the
+Open Web Application Security Project (OWASP) and
+MITRE’s Common Weakness Enumeration(CWE). Should
+any vulnerabilities appear within the context of testing,
+Logitech will remediate all security issues as identified by
+the vendor. While the third-party security assessment is
+done on major releases, Logitech also runs in-house SAST
+and DAST during development cycles."
+"3. Identify the extent to which all new/updated original code that will be utilized to transmit/house/process District data is subjected to pre-production application-level vulnerability scanning (utilizing a commercial solution such as IBM’s AppScan, HP’s WebInspect, etc.) and/or active penetration testing – preferably by third party security vendors – prior to final deployment decisions:","Logitech conducts security testing by third-party
+security consultants to identify vulnerabilities. Such
+Static Application Security Testing (SAST), Dynamic
+Application Security Testing (DAST), and cloud service
+configuration assessment align with but are not limited
+to, common security weaknesses as outlined in the
+Open Web Application Security Project (OWASP) and
+MITRE’s Common Weakness Enumeration(CWE). Should
+any vulnerabilities appear within the context of testing,
+Logitech will remediate all security issues as identified by
+the vendor. While the third-party security assessment is
+done on major releases, Logitech also runs in-house SAST
+and DAST during development cycles."
+"4. To the extent that the vendor relies upon third party code development vendors within this context, confirm that the vendor has undertaken review of questions (1-3) above with each of the outsourced vendors and has obtained satisfactory responses in all cases.","sync , Our development process ensures that no outdated versions of 3rd party dependencies/packages have been deployed to the cloud platform and also alerts if there are any reported vulnerabilities from the dependencies"
+"5. Does the vendor software provide APIs, microservices or some other method of integration with other software systems to exchange data?","Sync , We provide an API for Logitech Sync, detailed developer API reference is available upon request"
+"re any company functions, activities or services outsourced?",Yes  Github
+ Is secure-SDLC implemented?,Yes
+Please describe or provide documents about the secure-SDLC process:,This information is considered confidential and is not shared with external parties
+ Is source code scanned by a static application security testing (SAST) tool for vulnerabilities before being deployed?,Yes
+Are applications scanned with a dynamic application security testing (DAST) tool for vulnerabilities before being deployed?,Yes
+How is the vendors  application separated from other customers that the ASP may have?,"Data segregation is technically achievable if Logitech decides to offer it as an infrastructure option to satisfy individual customer requirements. However, currently there is no such plan in our feature list. The service currently collects data about room activities and Logitech devices. The size of the data from each customer may not justify the cost to support data segregation. In addition, Logitech is confident that the current access controls are sufficient to protect each customer’s data."
+"Please disclose if and where the application uses Java, JavaScript, ActiveX, PHP or ASP (active server page) technology","Sync , ""Sync Portal: VPC, CDN, AuthN/Z service,
+NoSQL DB, FaaS and data streaming
+services, encryption; primarily Javascript
+
+Sync client: Primarily C++, encryption
+"""
+What information is stored in cookies?,Logitech Sync: Logitech doesn't save any sensitive information like credentials in Cookies
+What is their expiration period?,Logitech Sync: N/A
+"What language is the application back-end written in? (C, Perl, Python, Java, .NET etc.)","Sync Portal: VPC, CDN, AuthN/Z service,
+NoSQL DB, FaaS and data streaming
+services, encryption; primarily Javascript
+
+Sync client: Primarily C++, encryption
+"
+"What frameworks (jQUERY, Spring, Node.js, etc.) used in the development of your applications?",Logitech Sync: Node.js
+"Is sensitive data of any type (credit card number, account login, passwords, PII, PHI) stored in encrypted form?",yes
+How is the data encrypted?,Encryption is built on AWS IoT. Encryption in transit: TLS 1.2 over port 443. Encryption at rest: RSA & SHA-256. End to End Encryption
+Is sensitive information ever “in the clear” or unencrypted in logs or any other transient storage?,"All connections require authentication and encryption. When data is at rest in the cloud, it is also encrypted and protected by access controls. Currently firmware update request is still in unencrypted HTTP. It will be converted to HTTPS in near future."
+Do you perform penetration and vulnerability assessments?,Yes
+"If yes, describe what type of penetration and vulnerability testing is conducted.","Logitech hires third-party security vendors to conduct penetration tests on both client and server applications.
+
+Logitech conducts black box manual and automated testing for vulnerabilities outlined in the Open Web Application Security Project (OWASP).
+- Emphasized on authentication, authorization, protocol negotiation and encryption tests on internet connections, fuzzy testing on API requests, Man-in-Middle attacks, automated tools to scan common web server vulnerabilities. 
+
+Logitech conducts black box manual and automated testing for vulnerabilities outlined on MITRE’s Common Weakness Enumeration (CWE).
+- Emphasized on authentication, authorization, API interface security
+- Code scanning for vulnerable dependencies
+- Code and commands injections"
+"If yes, provide details on how  penetration and vulnerability testing (internal, third party, or both) and frequency).",Third party. Logitech initiates penetration tests on major releases.
+"If yes, when was the last penetration test conducted?","Rally Bar: Dec 4, 2020 Logitech Sync: June 2021"
+"It is common for applications to utilize one or more service IDs and/or Tokens in order to access other systems, web services and/or databases.","Logitech Sync: Yes, the service components utilize separate tokens to access different component services"
+Does the application use service IDs/tokens?,Yes
+How often are service ID passwords/tokens rotated?,"Sync: Each token is session based and valid for a
+maximum of 60 minutes. Once it expires, the
+user has to refresh the access by providing
+the credential again."
+Who has access to these service IDs/tokens and are they managed through any type of system or tool?,"Logitech Sync: For user password and session tokens to access Sync service, they are all self-managed by a separate identity service. In the case of service-to-service credentials, the token is also assigned and managed by the service itself when receiving the requests."
+"Does this solution introduce any hardware that will run on Customers network and/or facilities? If the answer is “yes”, please answer the questions below",Yes
+Please provide an overview and detail the make/model/operating system and any/all pertinent security details of the hardware running in/on Kroger facilities and/or networks?,"Logitech Rally Bar, operating system - CollabOS (Logitech's proprietary Android 10-based operating system)
+
+Sync service does not require any on-premise hardware. Rally Bar managed/monitored via the Sync cloud-based service"
+"If you have a diagram of the solution, please provide.",Diagrams available of Logitech Sync environment and wiring diagram for Rally bar
+"Who will be responsible for maintaining, patching, security updates, etc.?","Sync , AWS"
+Who are the intended users of this application and how will they be authenticated?,"""Rally Bar: Company employees that need to make video calls with Microsoft Teams Rooms from the customer's conference spaces. Authentication in the Microsoft Teams Room application on Android with the room credentials (username/password) configured in the customer's MS Teams environment.
+
+Sync: Customer's IT and/or AV team. Authentication via username/password (SSO support included)
+
+(Source: Sync SAQ)"""
+"If a Customer user will be authenticating to the solution, do you support SSO/Federated Identity via SAML 2.0?","Yes, Logitech Sync supports SSO that
+can integrate with any ID providers that
+use standard authentication protocols,
+namely SAML and OpenID"
+"If identification or authentication process fails, is an error/event logged?","No, except for room-based events, Sync service
+has not explicitly deployed security logs
+like audit logs (logon history, access denial
+history, configuration changes, network
+setting, etc.).
+However, typical network connection and
+protocol errors are recorded (for example,
+4XX/5XX error codes, session disconnected/
+terminated, and duplicated connections
+from the same room)."
+"If identification or authentication process fails, is a detailed message displayed to the user?","No, the text of the error message is: ""Email or password is incorrect. Please try again."
+Do you have a well-defined and documented policy on the use of cryptographic controls?,"No, ""Logitech's Corporate IT: Yes, we use cryptographic controls in the Logitech company infrastructure.
+Logitech Sync: Yes, built on AWS IoT. Encryption in transit: TLS 1.2 over port 443. Encryption at rest: RSA & SHA-256. End to End Encryption.
+Logitech devices: Logitech devices use on-device encryption and TLS for network-based communication. For information on the use of cryptographic controls on computers running Microsoft Teams Rooms application, please refer to Microsoft documentation:"""
+Do you have a well-defined and document policy on cryptographic key management?,No
+"2. Identify each of the means that exist within vendor’s environment by which District-supplied data is encrypted while in-transit and/or at-rest (including, where possible, the names of the branded solutions being used and the size/strength of the encryption keys):","Sync , ""Sync’s backend service is
+protected using the strongest standard AES-256 bit
+encryptions inside the database. Also, the encryption
+keys are further encrypted and centrally managed by
+the AWS data services to safeguard customer data
+from data breaches."""
+What is the nature of the network connection from your organization to the customer and from the customer your organization? This could include using a private circuit or your organization uses the public internet for connectivity to customer using HTTPS (TLS 1.3) over port 443.,"Sync , Public internet with HTTPS, MQTT over TLS/SSL (TLS 1.2.), over port 443. For more details, please see Logitech Sync SAQ"
+Is CUSTOMER data encrypted at rest in your environment?,"Sync , RSA & SHA-256"
+When confidential data is hashed is the SHA2 algorithm used to generate that hash and are these hashes properly salted? (SHA1 and MD5 are no longer considered secure),"Sync , Yes"
+"What encryption algorithms are used to encrypt data in flight to/from the internet (IPSEC, SSH, SSL/TLS – specifically what version of SSL/TLS)?","Sync , TLS 1.2 over port 443"
+Do you have well-defined policies and procedures for managing information security and personal data incidents?,Yes
+Has a process for reporting information security or personal data events been communicated to workforce personnel?,Yes
+Has a process for reporting information security weaknesses been communicated to workforce personnel?,Yes
+Do you have a process for assessing information security or personal data events and whether they should be classified as incidents?,Yes
+"Do you have a process for responding to information security or personal data incidents?
+e.g., collecting evidence, logging response activities, meeting legal and contractual obligations, etc.",Yes
+"Do you evaluate information security incidents in order to learn from them and reduce the likelihood of similar future incidents?
+e.g., through tracking metrics and identifying recurring incidents",Yes
+Do you have well-defined and documented procedures for collecting evidence from information security or personal data incidents?,Yes
+"Are resilience requirements to support delivery of critical services established for all operating states (e.g. under duress/attack, during recovery, normal operations)?",Yes
+2. Identify the vendor’s capabilities associated with identifying and dealing with a potential data privacy breach that could involve unauthorized exposure of the District’s data while in the custody of vendor’s environment(s):,Logitech does not make its security testing or forensic processes publically available.
+3. Identify the vendor’s access to skilled data forensics capabilities on either an in-house or external standby basis should the need ever arise:,Logitech does not make its security testing or forensic processes publically available.
+4. Identify the vendor’s breach notification procedures and/or templates that are approved and ready for use in the event that the District’s data is subjected to an unauthorized data breach event:,Logitech does not make its security testing or forensic processes publically available.
+"5. Within the past two years, identify any significant information security or privacy breach incidents that negatively impacted any of vendor’s clients – and briefly describe the efforts undertaken by vendor to address/resolve them and along with changes to the vendor’s information security/privacy practices designed to prevent recurrence.",None
+ Do you inform the affected customers of a security incident/breach?,yes
+ Do you share findings with customers if asked?,No
+Has there been any system breaches within last 18 months?,No
+"Are there formally documented policies and procedures for Incident Response? If yes, please attach.",Yes
+Are staff provided with incident response training?,Yes
+Is incident response training unique based on the role of the individual?,Yes
+Are incident response tests conducted?,Yes
+Are the incident response test results analyzed?,Yes
+Is there an incident handling process,Yes
+Are incident handling activities coordinated with contingency planning activities?,Yes
+Are security incidents tracked and documented?,Yes
+Are security incidents timely reported to appropriate personnel/ government authorities?,Yes
+Are incident response resources used outside of the incident response team?,Yes
+"Is there a comprehensive Incident Response Plan? If so, please attach.",Yes
+Does the organization respond to information spillage appropriately and timely?,Yes
+When was the last business resilience test completed?,5/16/2020
+What were the results of the last resilience test?,Plan implemented and processes are identified - pandemic
+"Can you share your Business Resiliency and Disaster Recovery Policy/Procedure? This should also include information on back-ups. In no, please explain","Logitech confidential policies and procedure, we do not share with anyone external. Strictly Internal use only. If the vendor does push back we are able to share  The Table of Contents and the Revision History of the Logitech Business Continuity Plan, Disaster Recovery Plan, and Backup Policy. Anything more than this will need Legal to authorize."
+Are response and recovery plans tested?,Yes
+Does your disaster recovery/business resiliency planning specifically address ransomware?,Yes
+Have you identified and documented your organisation's requirements for information security continuity during adverse situations?,Yes
+"Do you have well-defined and documented policies and procedures for information security continuity?
+e.g., business continuity plans, disaster recovery plans, etc.",Yes
+"Do you have a process for regularly verifying, reviewing and evaluating your information security continuity controls?",Yes
+Do you have sufficient redundancies in place to ensure the availability of information processing facilities?,Yes
+"1. Identify the architectural and branded solution-based capabilities by which the vendor has incorporated high-availability (e.g., HOT-HOT, HOT-WARM) technology solutions designed to ensure compliance with SLA terms that require real-time availability of services associated with the transmission/hosting/processing of District data:"," ""To ensure 24/7 service, Logitech Sync is designed
+with fault-tolerant software architecture and
+infrastructure for a highly available service. To
+achieve High Availability (HA), computing resources
+are highly scalable and load distributed. Current data
+is hosted on servers on the US West Coast, and data
+is continuously backed up within the data center. In
+case of an emergency, Logitech Sync can recover at
+any point and in any region without interruption of
+service within the past 35 days."""
+2. Identify the how vendor’s system availability architecture is based upon geographically diverse placement of nodes/domains constituting the mission-critical services involving District data:,"""N/A - Logitech sync systems are hosted under AWS - All resilience, DR follow AWS structures. 
+All systems are hosted in the US AWS architecture"""
+3. Identify the how the vendor performs regular disaster recovery plan testing involving the network/system assets that incorporate the transmission/hosting/processing of District data:,"""N/A - Logitech sync systems are hosted under AWS - All resilience, DR follow AWS structures. The entire service stack can be redeployed any time.
+The data can be restored at any point of time from last 35 days and to different region. """
+4. Identify the extent to which sufficient UPS and longer-term backup generator capacity exist at all vendor locations that incorporate the hosting/processing of District data:,N/A - Logitech sync systems are hosted under AWS - All resilience and support for backup power follow AWS structures. The operation of data center is handled and guaranteed by AWS. 
+Do you have personnel that are responsible for Business Continuity Planning?,"Yes , dedicated BCP team "
+Do you have an oversight program to ensure the quality of your business continuity plans?,Yes
+"If yes, describe the oversight program including the plan review process.","Sync , For Logitech Sync: All backup snapshots are managed and stored on AWS cloud platform. Backup facilities are not accessible by customers. Backup snapshots are not accessible by customers. Sync service regularly backs up its database records for disaster recovery purposes. In case Sync service has been disrupted/ unavailable for some time, Sync client application will immediately populate its latest status to the cloud service once it becomes available in order to ensure all information and states are up to date."
+What is the process for monitoring integrity and availability of the hosts?,"Sync , ""Sync’s computing environment runs in the
+cloud as a platform as a service (PaaS). The
+cloud provider scales and guarantees the
+resource availability."""
+"In the event of an incident or service failure, are clients, vendors & services prioritized?","Yes , """"""When a security vulnerability or issue is
+found, it is prioritized based on the severity.
+Any high severity issues like exposing user
+data or privacy are handled immediately.
+
+(Source: Sync SAQ)"""""""
+Do you test your Business Continuity plans?,"Yes , Annually"
+"Are there formally documented policies and procedures for Contingency Plan? If yes, please attach.",Yes
+"Have you developed a contingency plan for this information system? If yes, please attach.",Yes
+Does the contingency plan: Identify the essential missions and business functions,Yes
+"Does the contingency plan : Provide recovery objectives, restoration priorities, and metrics",Yes
+"Does the contingency plan:  Address contingency roles, responsibilities, and assigned individuals with contact information ",Yes
+Does the contingency plan Address maintaining essential missions and business functions despite a disruption,Yes
+Does the contingency plan Address full restoration without deterioration of originally implemented security safeguards,Yes
+Does the contingency plan Distributed to key personnel,Yes
+Does the contingency plan Coordinated with incident handling procedures,Yes
+Does the contingency plan Reviewed and updated to address changes,Yes
+Does the contingency plan Protected from unauthorized disclosure or modification,Yes
+Does your department train personnel in their contingency roles and responsibilities and provide refresher training when required?,Yes
+Do you test and/or exercise the contingency plan periodically to determine the plan’s effectiveness and review the contingency plan test results to initiate any needed corrective actions?,Yes
+Has your department established an alternate storage site including necessary agreements to permit the storage and recovery of information system backup information?,Yes
+Does the alternate storage site provide information security safeguards equivalent to that of the primary site?,Yes
+Has your department established an alternate processing site to permit the resumption of information system operations for essential missions and business functions when the primary processing capabilities are unavailable?,Yes
+Does the alternate processing site provide information security safeguards equivalent to that of the primary site?,Yes
+"Are there alternate forms of telecommunication available should primary means (e.g. email, cellular phone) be unavailable?",Yes
+"Is user-level information, system-level information, and information system documentation backed up?",Yes
+"Is the confidentiality, integrity, and availability of backup information protected at the storage location?",Yes
+"Is there recovery and reconstitution of the information system to a known state after a disruption, compromise, or failure?",Yes
+"Do you maintain a shared mailbox to receive requests such as this one? If yes, what is the mailbox name?",No
+"Do you maintain an external independent control evaluation such as a SOC, SSAE or Star report?",No
+Do you follow any of these regulations or individual standards? (select all that apply),"GDPR, CCPA, Other (SOX)"
+"Do you have a well-defined and documented corrective procedure for addressing 'nonconformities' with the ISO 27001 standard?
+Nonconformities are typically identified during audits. Nonconformities identified during an external certification or surveillance audit are typically accompanied by deadlines for completing corrective actions, and in some cases a failure to correct a nonconformity can result in loss of certification. ",Yes
+"Do you ensure, and document evidence of, the continual improvement of your information security program?",Yes
+Are audits of information systems planned in a way that minimises distruptions to business processes?,Yes
+Do you maintain current support and licensing for all hardware and software used to host Eaton's application and data?,Yes
+Does the ISMS undergo independent reviews?,Yes
+"Does the ISMS undergo regular management review, to ensure organisational compliance with information security policies and procedures?",Yes
+"Do information systems undergo regular review for compliance with information security policies and procedures?
+Please describe the measures taken.",Yes
+"Identify each of the relevant certifications (and latest compliance dates) maintained by the vendor that speak to independent audit confirmation of the vendor’s security practices (examples include GDPR, PCI DSS/ASV, Sarbanes-Oxley, SAS 70/SSAE 16, HIPAA/HITECH, GLBA, etc.):","SOX 404 - 
+Logitech are also are certified participants in the EU-U.S and Swiss-US Privacy Shield Framework. The Privacy Shield Frameworks were designed by the U.S. Department of Commerce, and the European Commission and Swiss Administration, respectively, to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce. "
+" To the extent that the most recent audit reports identified in question (1) identified any unaddressed security gaps or issues, briefly summarize the steps that have been taken – or are still pending – to fully resolve them:",No security gaps identified in SOX testing 
+" Beyond the scope of the formal audits identified in question (1), please summarize any ongoing security-related audit activities that are regularly performed by the vendor’s in-house security team or other third-party security firms – including the use of vulnerability scanning and/or penetration testing:","""Annual 3rd party cybersecurity audit, that performs pen tests. Externally, Sync cloud service procured 3rd party application security assessment tests covering dynamic test (DSAT), static analysis (SAST) and cloud security review.
+Logitech also runs internal SAST and DSAT. """
+" In the specific case where healthcare-related data is being managed by the vendor through the additional support of sub-contractors, identify the extent to which the vendor has obtained legally sufficient Business Associate agreements for each of the sub-contractors who will have potential access to PHI data:",N/A
+"Which certifications or external audits has the environment holding customer data obtained? (SAS70, ISO 27001, PCI, SoX, etc…)?",SOX
+"Which certifications or external audits has the environment holding customer data obtained? (SAS70, ISO 27001, PCI, SoX, etc…)?",SOX
+Is customer data masked or obfuscated in the development and test environments?,"N/A , Logitech Sync: Logitech does not use customer's data in both development and test environments. The customer data is part of the production environment which is independent from other environment. They all have their own independent database."
+"Are there formally documented audit and accountability procedures for this information system? If yes, please attach.",No
+"Is the information system actively auditing events such as access to patient information, login/logoffs, account creation, etc.? If yes, please detail the events captured in the comment.","N/A , We do not access Patient information"
+Are the audit logs captured sufficient for incident response and system and user performance/investigation?,Yes
+Have you evaluated the audit storage capacity of this information system and determined that it is adequate?,N/A
+"Do you have a well-defined and documented mobile device policy, combined with technical and organisational measures designed for mitigating risks associated with mobile devices?",Yes
+"Do you have a well-defined and documented teleworking policy, combined with technical and organisational measures designed to mitigate the risks associated with teleworking?",Yes
+Do you allow employees to bring their own device (BYOD) into the work place and connect to your network?,No
+Do you have workstation time outs set up?,Yes
+"Do you have controls in place to detect, prevent and recover from malware?",Yes
+Is data destroyed according to policy?,Yes
+Is removeable media protected and its use restricted according to policy?,Yes
+Do all Windows based hosts have current and up to date anti-virus software installed?,Yes
+What anti-virus tools do you utilize?,"MALWAREBYTES , Crowdstrike"
+Does the company have standards or secure technical implementation guides (STIGs) for all utilized client OSes?,No
+Check all topics that are covered by your client hardening and build standards: ( End user devices) ,"x	Disable or remove all “guest” and built-in support accounts								
+o	Physically disable the use of USB ports for external media or other connectivity solutions								
+x	Create accounts in AD rather than locally on the machine, if possible 								
+x	Install anti-virus software and spyware 								
+o	""Disable or remove all services and applications and network protocols not required for 
+the specific function of the system""								
+x	OS and software must be updated with latest patch in terms of security								
+o	Configure log and audit								
+o	Configure host-based firewall policy								
+o	Setup the backup mechanism								
+x	Securely configure VPN or other remote access clients								
+o	Setup the software installation control								
+x	Set up full disk encryption								
+o	Other hardening and build procedures								"
+Do you have a standard to update and install security patches for operating systems and applications on clients?,Yes
+ How often do you install the updates and security patches routinely?,Monthly
+Is there an emergency patch strategy if high risk security issues are found?,Yes
+"Is there a centralized management tool for your clients, especially operating system?",No
+ Is the use of external storage devices (such as USB mass storage devices) permissible on corporate infrastructure?,Yes
+" If mobile devices are stolen or lost, can your company wipe them remotely?",Yes
+"Do you restrict access to the Desktop systems (such as Administrative Access, USB, CDR/DVD)?",No
+Are USB drives or other portable media encrypted?,No
+What methods are used to “sanitize” storage devices before they are replaced or removed?,data wiped and destruction of hardware
+"Do you allow laptops, tablets, smart phones or other portable devices on the network that will process, store or view Kroger data / information?","Yes, Sync "
+Do you allow remote access to Kroger data / information from non-company owned assets?,No
+Do you allow supervisory/admin functions to be performed over unencrypted external links?,"No , Sync    the client software always makes encrypted and authenticated connections (SSL/TLS) to the cloud service"
+What operating systems are in place hosting customers application and data?,Product dependant. 
+Are patch levels maintained on machines hosting Eaton data? Attach the patch management policy if different from the information security policy.,We have patch management cycles in place for our servers containing Logitech Sync customer data. We are very diligent applying security updates both to the operating systems and the applications that run on it.
+How and to what extent has the hosts compromising the Eaton Corporation application infrastructure been hardened against attack?,"Logitech servers are hardened against attack, we follow the recognized NIST 800-53 and ISO 27001 guidelines as part of our security standards"
+"Are network security controls in place?
+If yes, please describe the person responsible for carrying out the included procedures.",Yes
+"Do network services agreements include details on security mechanisms, service levels and management requirements?",Yes
+"Do your networks segregate different groups of information services, users and systems?
+e.g., through the use of separate network domains",Yes
+"Are controls in place to protect electronic messaging? e.g., email, electronic data interchange, social networking, etc.",Yes
+Are integrity checking mechanisms used to verify hardware integrity?,Yes
+Is a baseline configuration of information technology/industrial control systems created and maintained incorporating security principles (e.g. concept of least functionality)?,Yes
+Are all unnecessary/unused services uninstalled or disabled on all servers?,Yes
+"Are vendor default passwords removed, disabled or changed prior to placing all devices or systems into production?",Yes
+What type of multitenant isolation/segregation do you have in place?,"network segmentation, zones, policies in place"
+"Identify how individual servers under vendor’s control are pre-hardened to minimize the presence of non-essential commands, data, and TCP/IP ports/services prior to their deployment and vendor hosting of District data:","N/A. there are no individual, or on-premise servers."
+5. Identify branded solutions currently in use by the vendor that provide for effective anti-virus and malware prevention within the environment(s) that transmit/house District data:,"NA. Sync cloud service is built with serverless architecture. The security of the computing infrastructure is managed by the cloud platform provider, AWS"
+6. Identify branded solutions currently in use by the vendor that provide for effective intrusion detection/prevention system (IDS/IPS) capabilities within the environment(s) that transmit/house District data:,"NA. Sync cloud service is built with serverless architecture. The security of the computing infrastructure is managed by the cloud platform provider, AWS"
+"7. Identify any branded solutions in use by the vendor that provide for effective data loss prevention (DLP), security information event management (SIEM), distributed denial-of-service (DDoS) or any other types of advanced protection capabilities within the environment(s) that transmit/house District data:","Sync service deploys AWS CloudWatch metrics to observe the latency, performance and any anomaly on traffic."
+8. Identify branded solutions currently in use by the vendor that provide for effective change management control and/or automated system patching capabilities within the environment(s) that transmit/house District data:,"Chef + git (Linux/Unix), Microsoft WSUS (Windows), Jenkins, and CloudFormation."
+"9. Identify branded cloud-based solutions in use by the vendor and the extent to which the vendor can guarantee that District data is not stored, even temporarily, outside of United States borders.",Logitech Sync is hosted in the US instance of AWS. It does not move outside of the US locations. 
+ Is an identity management mechanism in place for servers and applications?,yes
+Please describe your identity management mechanism:,Logitech uses a Federated identity management system.
+ Are firewalls used to restrict network access to application and system level services?,Yes
+ Does the network have clearly defined risk levels including a DMZ? ,yes
+ Is there network segmentation/isolation based on different trust and risk levels such as production network and corporate network?,yes
+Is remote access to your company network permitted? ,yes
+ How is access to VPN authenticated? Check all that apply,2FA token
+ Does the company have standards or secure technical implementation guides (STIGs) for all utilized server OSes?,No
+Check all topics that are covered by your server hardening and build standards:(server),"x	Disable or remove all “guest” and built-in support accounts								
+o	Physically disable the use of USB ports for external media or other connectivity solutions								
+x	Create accounts in AD rather than locally on the machine								
+x	Install anti-virus software and spyware								
+o	Install host intrusion detection and prevention on servers								
+x	Disable or remove all services								
+x	OS and software must be updated with latest patch in terms of security								
+x	Configure event log and audit								
+x	Configure host-based firewall policy								
+x	Review/configure of access control of key resources								
+x	Set up the backup mechanism								
+o	Other hardening and build procedures								"
+Do you have a patch and vulnerability management strategy for servers?,yes
+Do you have a standard to update and install security patches for operating systems and applications on servers?,yes
+Do you test the update and security patches before installing on production servers?,yes
+How often do you install the updates and security patches routinely?,Monthly
+ Is there an emergency patch and management strategy if high risk issues are found?,Yes
+Are all critical/high security patches applied within 30 days in your environment?,Yes
+Are all your networking devices at the latest patch level?,Yes
+Do you employ Firewalls to protect your network?,"Yes , Firewalls, zones are in place"
+Do you use firewall-reporting tools to analyze your Firewall traffic?,"Yes , Tools in place for IPS and IDS protection"
+Do you have intrusion detection or prevention systems (IDS/IPS)?,Yes Palo Alto Networks
+"If yes, can this system analyze encrypted data?",Yes
+Do you have a Data Loss Prevention system?,"Yes , Various tools and policies in placed"
+What environments are you searching?,Production
+Are measures in place for ensuring privacy and data protection in accordance with legal and contractual requirements?,Yes
+"Do you maintain a data protection and privacy policy? If yes, please attach.
+","Yes , https://www.logitech.com/en-roeu/legal/product-privacy-policy.html"
+Do you have a mandatory Data Protection and Privacy training?,Yes
+Please attach a document describing your data protection and privacy efforts.,----
+"Are there direct interactions with your client's customers (Eaton customers)?
+Will you have direct contact with Eaton customers?","No , No direct interaction with clients nor do we have anyway of knowing who vendors  clients are."
+"Is a website(s) maintained or hosted for the purpose of advertising, offering, managing, or servicing accounts, products or services to clients customers? If yes, please explain.","No ,We have no way of knowing who clients customers are."
+"Are accounts opened, financial transactions initiated or other account maintenance activity (e.g. applying payments, receiving payments, transferring of funds, etc.) through either electronic, telephonic, written or in-person requests made on behalf of your client's customers?",No
+"Personally Identifiable Information (PII) associated with the District’s customers, employees, or other involved parties. (PII includes, but is not limited to, names, addresses, SSNs, DLs, purchase histories, etc.)",TRUE
+"Payment Cardholder Information (PCI) associated with the District’s customers. (PCI includes debit/credit card numbers, expiration dates, track 1/2 data, etc.)",FALSE
+"Other Types of Financial Account/Payment Information associated with the District’s customers, employees, or other involved parties. (This can include bank/brokerage account numbers, ACH codes, balances, debts, etc.)",FALSE
+"Private Health Information (PHI) associated with the District’s customers, employees, or other involved parties. (PHI can include paper/electronic health records, treatment data, etc.)",FALSE
+"Confidential Business Information associated with the District’s operations (water delivery and billing), intellectual property, legal/compliance, or other types of data elements subject to confidentiality requirements.",FALSE
+Publicly Available Information associated with the District’s overall activities.,FALSE
+"1. When sensitive District data of any of the types mentioned earlier (PII, PCI, PHI, Confidential Business Data) are entrusted into vendor’s care, identify how such data is segregated from that of other clients while in system storage (e.g., physical segregation, logical segregation via VLANs/firewalls, separate DB instances, etc.):","N/A ,  The Sensitive data mentioned is not collected by the platforms. "
+"1. Identify the vendor’s overall incident response plan, specifically describe the timing and manner in which the District will be apprised of reported incidents and subsequent resolution tasks","Please see public Data privacy statements Yes , https://www.logitech.com/en-roeu/legal/product-privacy-policy.html"
+"Describe any material claims, judgments, or privacy breaches involving your company or senior management in the past 24 months","From the security side, no breaches within the last 24 months. From the legal side, we have had privacy breaches, they were minor and did not lead to any legal action. They were however reported to regulators who decided against taking action against Logitech."
+"Are there processes in place to respond to customer requests for data transparency as well as data removal from all internal systems, if said request is received, either directly from the customer","Yes , Individuals can contact customer service through our website, via telephone or email privacy@logitech.com directly. We also have two privacy policies (one for our website and one for all our products) to ensure we meet our transparency obligations."
+Do you have a response team to address privacy incidents and data breaches?,"Yes , We have a security team led by the CISO as well as a Global Head of Privacy and privacy team to ensure security and privacy protocols are followed in the event of an incident or reportable data breach"
+Is there a formal process or policy to prepare for and for rectifying data breaches?,"Yes , We have a security team led by the CISO as well as a Global Head of Privacy and privacy team to ensure security and privacy protocols are followed in the event of an incident or reportable data breach."
+"Will Kroger be notified of all privacy related problems and incidents (e.g., privacy data breach, unauthorized access) involving and/or impacting the customer","Yes , The logitech privacy team will reach out via email to the email address to be provided by the customer"
+"Is a web site supported, hosted or maintained that has access to customer systems  and data?","yes , ""The Logitech Sync portal has access to the customers  systems which are registered via the locally installed Sync agent - Sync agent is not a part of firmware/software on Logitech devices that don't have CollabOS (the Android 10 derived operating system running on Logitech Rally Bar, Rally Bar Mini, and RoomMate).
+- On CollabOS, Sync agent is built in the operating system but it currently requires manually logging in the Sync portal. 
+- On computers with Windows 10: Once a Logitech device is connected, all components of Sync agent except Sync user interface are installed as a critical update via Windows Updates. Sync user interface is required for logging the device in the Sync portal. Sync agent components including the user interface software can be bulk provisioned or installed locally using an .exe installer. 
+- On Mac computers: Sync agent components including the user interface can be bulk provisioned or installed locally using a .pkg installer.                                                                                 The Sync agent is optional and does not get installed automatically."""
+"Do you have logical or physical segregation between web, application and database components? (i.e. internet, DMZ, database)","yes , Yes but not physical.
+- Although all data is physically commingled in a database, an organization’s data is logically coupled together with the schema design
+- Besides, Sync service limits the user access of information to his/her organization only
+- The computing resources for each request session is independent from one another. "
+"Are web servers used for transmitting, processing or storing customer data?",Yes
+Is HTTPS enabled for all web pages?,Yes
+Are web server software versions that no longer have security patches released prohibited?,"Yes , Our development process ensures that no outdated versions of 3rd party dependencies/packages have been deployed to the cloud platform and also alerts if there are any reported vulnerabilities from the dependencies"
+"Is an API available to clients? If yes, please provide details.","Yes , We provide API for Logitech Sync, detailed developer API reference is available upon request"
+"Personally Identifiable Information (PII) associated with the District’s customers, employees, or other involved parties. (PII includes, but is not limited to, names, addresses, SSNs, DLs, purchase histories, etc.)",TRUE
+"Payment Cardholder Information (PCI) associated with the District’s customers. (PCI includes debit/credit card numbers, expiration dates, track 1/2 data, etc.)",FALSE
+"Are controls in place to ensure that technical vulnerabilities are quickly identified, evaluated and addressed?",Yes
+Are protections against data leaks implemented?,Yes
+Do you have a DLP (Data Loss Prevention) solution in place?,Yes
+Is the network monitored to detect potential cybersecurity events?,Yes
+"If yes, what IPS/IDS tools do you utilize?",Palo alto
+Is the physical environment monitored to detect potential cybersecurity events?,Yes
+Is personnel activity monitored to detect potential cybersecurity events?,Yes
+Is malicious code detected?,Yes
+Is external service provider activity monitored to detect potential cybersecurity events?,Yes
+Are vulnerability scans performed?,Yes
+What tools are utilized for vulnerability scans?,Yes
+"Can you provide your latest vulnerability scan performed? In no, explain why.","No , confidential and we do not share"
+"If no, can ( any vendor ) scan for vulnerabilities prior to implementation?        ","No,     Logitech is a hardware provider of Unified Communications and Video Collaboration equipment supporting Microsoft Teams, Zoom, Google and other platforms. We also provide software (Logitech Sync) to manage the devices and collect usage analytics. We sell the hardware through a network of distributors and resellers. This engagement will be accomplished by Eaton testing the hardware and software and then purchasing it through a reseller of their choice in which other services (installation, etc.) may or may not be offered with the hardware. If Eaton makes a decision to use Logitech Sync cloud portal for remote monitoring and management of Logitech devices, Eaton’s data will be stored in the Sync cloud. This data includes, for example, user accounts, room names, Logitech devices names, serial numbers, versions, event logs, and collected room analytics like number of participants attending meetings during the day, but not video live streams or recordings from Logitech cameras or mics from these meetings."
+Are newly identified vulnerabilities mitigated or documented as acceptable risks?,Yes
+ How do you know your systems are affected by vulnerabilities requiring patches?,Automatic vulnerability scanner 
+Please describe other methods you employ to discover the vulnerabilities:,Scanning via Nexpose/Rapid7
+What is your criteria or methodology for determining a vulnerability is an acceptable risk?,Logitech follows NIST 800-53 rev 4 and ISO 27001:2013 
+Are notifications from detection systems investigated?,Yes
+Is the impact of an incident understood within the cyber team along with senior management?,Yes
+Are incidents categorized consistent with response plans?,Yes
+ Is all security events and incidents occurred in servers and clients logged?,Yes
+" Is all remote access to servers, clients and corporate networks logged?",Yes
+ How long will the log generally be retained for auditing or potential forensic analysis?,3 months
+Is all log data collected stored in a single place where it may be searched and correlated?,Yes
+ Do you review and monitor the log regularly?,Yes
+Do you keep the physical entry log of offices and data centers?,Yes
+Do you utilize Web Application Firewall (WAF) to protect the application?,Yes
+"If yes, please specify the vendor of WAF.",Amazon
+"Are system, network and database administrator logins logged?",Yes
+" In case of a breach of your systems that affects Nasdaq, will it be possible to share OS and application logs with Nasdaq?",No
+Do you have a procedure to keep track of announcement of vulnerability patches for your networking devices?,"Yes, Patch and Vulnerability policy and procedure"
+Do you scan for vulnerabilities in the environment?,"Yes , Internal and external vulnerabilities are scanned"
+Do you scan all emails for viruses?,"yes ,"
+Is there explicit policy requiring anti-virus software on networked computers?,"Yes , required for all systems connecting to Logitech's network"
+Do you allow installation of personal and non-corporate approved software on network computers?,"Yes , Exceptions, through review and approval, and requirements and antivirus software on workstations prior to connection."
+Are end-users prevented from disabling anti-virus software on personal computers?,"Yes ,MDM solution in placed "
+"What type of information is collected in system logs? (Web, database, application, firewall and other network equipment.)",Depends on the tools and the data needed to perform monitoring and investigations (if needed). 
+How is this information reviewed and at what interval?,Reviewed as needed and reviewed as triggered by alarms
+Is this information stored in a SIEM product and correlated with other system events?,yes
+Is a Computer Security Incident Response Team (CSIRT) in place?,Yes
+"If Yes, describe the procedures in place for responding to security incidents.",For product we have 3rd party ethical research platform in place and a dedicated SOC team to handle incidents
+"If Yes, what is the frequency for validating your incident response plan?",Annually and as needed. 
+"Do you have dedicated Audit, Compliance and Risk Management personnel which audit policies, procedures and the review process?","Yes , Internal Audit and GRC Team"
+"Are there formally documented policies and procedures for Security Assessments and Authorizations? If yes, please attach.",Yes
+"Has the scope of the security assessment plan been addressed, and does it cover specific security controls and enhancements?
+",Yes
+Is there a continuous monitoring strategy? What metrics are used to ensure compliance?,Yes
+Are continuous monitoring results analyzed?,Yes
+Are security controls monitored for compliance? What actions are taken if components are deemed non-compliant?,Yes
+Are the results of continuous monitoring reported to an authorizing official?,Yes
+Does your organization do penetration testing on internal networks?,Yes
+"Is there a device or component that is uniquely used with this system? (E.g., biomedical devices used particularly with this information system).","Yes , Video Conferencing equipment"
+"Is there documentation on what information is communicated with that device, how it is transferred, and how the data is secured?",Yes
+Do your contracts with external parties address the secure transfer of business information?,Yes
+Do you have a well-defined and documented policy containing the requirements for confidentiality or non-disclosure agreements?,Yes
+Do you maintain an adequate level of cyber insurance?,Yes
+Does your cyber insurance plan specifically address ransomware?,Yes
+"Do you maintain a list of all legal and contractual requirements, along with well-defined and documented policies and procedures on how to meet those requirements?",Yes
+Do you have well-defined and documented procedures for ensuring compliance with legal and contractual requirements regarding intellectual property?,Yes
+"Are controls in place for the protection of records in accordance with legal, contractual and business requirements?",Yes
+"1. Summarize the vendor’s current cyber liability insurance policy coverage to protect the vendor (and the District via indemnification and/or as an additional insured) against substantial monetary losses arising from either first-party or third-party liability risks. Include policy limits and whether it covers 1) breach remediation and notification expenses, 2) breach response counsel, 3) forensic investigation, 4) credit monitoring services, 5) regulatory fines and penalties, 6) crisis management and public relations, 7) exclusions for mechanical failure, failure to maintain the computer network, failure to maintain risk controls or lack of encryption:","Yes, Logitech has cybersecurity insurance 
+Here is the Logitech Data Privacy policy https://www.logitech.com/en-roeu/legal/product-privacy-policy.html"
+5. Describe how the vendor product/service supports data retention schedules and the disposition of data.,"Once a customer signs up for Logitech Sync, all user
+and device data regularly collected is retained within
+the service until the customer decides to opt-out
+of the service. To exit the service, customers should
+make their request by completing the webform at
+support.logitech.com/response-center Logitech
+will then walk through the deletion process with the
+customer. Once the account has been marked as
+deleted, all customer data except product logs will be
+permanently deleted immediately."
+6. Describe how the vendor product/services support eDiscovery and Legal Hold (preserve in place) technology to preserve District data upon notification.,N/A
+Has the data retention and acceptable usage of customers ’s data been defined in the MSA?,Logitech's  standard MSA agreement includes data protection and privacy provisions which describe the treatment and protection of data collected or exchanged by the parties to the MSA. 
+What methods are used to purge data once it is no longer required?,"""To exit Sync service, an authorized user must initiate an exit request, which Logitech will validate. We will also ask the user to delete all the core data records via the service console so that the customer can verify that the data has been deleted from our database. Once both requests have been satisfied, Logitech will permanently delete the account from the service. If the customer decides to re-subscribe to the service, a new account will be created and its data records will have no association with the previous one.
+
+In terms of equipment, consumer data associated with the service can reside in the following physical areas:
+1. On-premise computer: When a customer uninstalls Sync service client, all the credentials and associated logs are deleted.
+2. Third-party hosting center: While the physical equipment belonging to the platform owner can’t be disposed of, Logitech will delete associated data as described previously.
+
+(Source: Sync SAQ)"""
+Are there any storage media (e.g. backups) that the data would not be purged from?,No
+"Is maintenance and repair of organizational assets performed and logged in a timely manner, with approved and controlled tools?",Yes
+"Is remote maintenance of organizational assets approved, logged, and performed in a manner that prevents unauthorized access?",Yes
+What type of notification will be sent to Eaton for scheduled changes?,"Email notifications from Logitech Sync
+
+"
+"If identification or authentication process fails, is a detailed message displayed to the user?","No, the text of the error message is: ""Email or password is incorrect. Please try again"
